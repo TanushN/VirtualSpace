@@ -1,6 +1,6 @@
 # VirtualSpace
 
-Project Developed for JumpStart Startup competition by Tanush Nadimpalli, Ramki Pitchala, Rohan Shiva, Tejesh Cheepuru and Harkia Uppuluru.
+Project Developed for JumpStart Startup competition by **Tanush Nadimpalli, Ramki Pitchala, Rohan Shiva, Tejesh Cheepuru and Harkia Uppuluru.**
 
 **⭐️ This project won #2 in Best Business!!**
 
